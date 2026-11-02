@@ -39,6 +39,23 @@ Low-poly 3D asset packs (Blender, GLB/FBX, Godot scenes) and playable Godot 4 te
 - **Karaoke & KTV 3D** — stage, booths and bar. US$3.99 — https://shapita.itch.io/karaoke-ktv-3d
 - **Verdant Glasshouse** — 37 modular greenhouse and plant models — https://shapita.itch.io/verdant-glasshouse-3d
 
+## FAQ
+
+**Which engine do these work with?**
+Godot 4. The 3D models are also delivered as Blender, GLB and FBX files, so you can import them into other tools yourself. There are no Unity or Unreal versions.
+
+**Can I try something before buying?**
+Yes. Store Simulator Kit Lite, Garden Market and the Factory Line 8-model sample are free, and Shop Sim Core has a free browser demo: https://shapita.itch.io/shop-sim-core-godot
+
+**Asset pack or working template?**
+Packs like Factory Line, Store Simulator Kit and Data Center 3D are art (models, scenes, prefabs). Shop Sim Core and Sortworks Pro are working Godot 4 projects you can build a game on.
+
+**Are the assets made with AI?**
+They are made with an AI-assisted workflow. Every image on this page is a real render or capture of the delivered content.
+
+**Where do I follow updates?**
+X: https://x.com/TinyShiftAssets · Bluesky: https://bsky.app/profile/tinyshiftassets.bsky.social · YouTube: https://www.youtube.com/@tinyshiftassets
+
 Full catalogue (65+ packs): https://shapita.itch.io/ · Updates: https://x.com/TinyShiftAssets
 
 Prices as listed on itch.io in November 2026; check the store page for the current price. Tested in Godot 4 on desktop (Windows); no Unity/Unreal versions.
