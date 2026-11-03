@@ -26,10 +26,14 @@ Low-poly 3D asset packs (Blender, GLB/FBX, Godot scenes) and playable Godot 4 te
 
 ![Store Simulator Kit](images/Store_Complete_portada_real.png)
 
-- **Store Simulator Kit** — 147 low-poly retail assets — https://shapita.itch.io/store-simulator-kit-3d
+- **Store Simulator Kit** — 138 low-poly retail models + 9 stocked prefabs, two example stores; includes all 44 Lite models (no need to buy both) — https://shapita.itch.io/store-simulator-kit-3d
 - **Shop Sim Core** — first-person store simulator template for Godot 4: restocking, pricing, checkout with cash/change and card, orders, day cycle, upgrades, saves. Free browser demo. US$19.99 — https://shapita.itch.io/shop-sim-core-godot
+- **Retro 90s Shop** — expansion on the same grid and colour atlas as Store Simulator Kit — https://shapita.itch.io/retro-90s-shop-3d
+- **Card Shop** — expansion on the same grid and colour atlas as Store Simulator Kit — https://shapita.itch.io/card-shop-3d
+- **Hardware Store** — 88 model entries, 6 stocked prefabs, shop and lumber-yard layouts; two models free to test — https://shapita.itch.io/hardware-store-3d
+- **Pharmacy & Clinic** — retail/clinic kit — https://shapita.itch.io/pharmacy-clinic-kit-3d
 
-![Shop Sim Core checkout](images/Shop_Sim_Core_caja_gameplay.gif)
+![Shop Sim Core checkout](images/Shop Sim Core caja gameplay.gif)
 
 ## Themed rooms
 
