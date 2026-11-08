@@ -35,6 +35,14 @@ Low-poly 3D asset packs (Blender, GLB/FBX, Godot scenes) and playable Godot 4 te
 
 ![Shop Sim Core checkout](images/Shop Sim Core caja gameplay.gif)
 
+## Simulators and progression
+
+- **Haul & Upgrade Kit** — playable 3D simulator template for Godot 4: collect, sell, upgrade across 3 tools (vacuum, shovel, pick) and 3 zones (beach, scrapyard, Moon Base), with rebirth and an editable JSON economy + progression simulator. 49 procedural glTF models, GDScript addon, EN/ES guides. Free browser demo and free Lite ZIP; full kit US$19.99 (launch week US$15.99 through Nov 15, 2026). Tested Godot 4.6.3 and 4.7.2; code/docs AI-assisted — https://shapita.itch.io/haul-upgrade-kit
+
+## Vehicles and moving bases
+
+- **Rolling Base Kit** — Godot 4 template for walkable moving vehicles: steam train (5 cars), drill cabin, submarine; interactive stations with fuel/pressure/power/faults. 35 procedural glTF models. Free Lite ZIP and browser demo; full kit US$19.99 (launch US$15.99 through Nov 15, 2026). Tested Godot 4.6.3 and 4.7.2; AI-assisted — https://shapita.itch.io/rolling-base-kit
+
 ## Themed rooms
 
 - **Data Center 3D** — server room and infrastructure kit. US$3.99 — https://shapita.itch.io/data-center-3d
@@ -42,6 +50,7 @@ Low-poly 3D asset packs (Blender, GLB/FBX, Godot scenes) and playable Godot 4 te
 - **PC Repair Pro** — interactive PC parts and workshop. US$12.99 — https://shapita.itch.io/pc-repair-pro-3d
 - **Karaoke & KTV 3D** — stage, booths and bar. US$3.99 — https://shapita.itch.io/karaoke-ktv-3d
 - **Verdant Glasshouse** — 37 modular greenhouse and plant models — https://shapita.itch.io/verdant-glasshouse-3d
+- **Facility Power Pro** — blackout & backup kit for Godot 4: 39 designs + 4 variants, 27 prefabs; 3 scenarios (Server Power Room, Small Workshop, Abandoned Facility) with generator/fuel/load priorities/fuses. Free component ZIP and browser demo; full kit US$12.99. Tested Godot 4.6.3 on Windows; AI-assisted. (No server racks, audio or LODs.) — https://shapita.itch.io/facility-power-pro
 
 ## FAQ
 
