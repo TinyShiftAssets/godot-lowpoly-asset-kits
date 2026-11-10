@@ -39,6 +39,10 @@ Low-poly 3D asset packs (Blender, GLB/FBX, Godot scenes) and playable Godot 4 te
 
 - **Haul & Upgrade Kit** — playable 3D simulator template for Godot 4: collect, sell, upgrade across 3 tools (vacuum, shovel, pick) and 3 zones (beach, scrapyard, Moon Base), with rebirth and an editable JSON economy + progression simulator. 49 procedural glTF models, GDScript addon, EN/ES guides. Free browser demo and free Lite ZIP; full kit US$19.99 (launch week US$15.99 through Nov 15, 2026). Tested Godot 4.6.3 and 4.7.2; code/docs AI-assisted — https://shapita.itch.io/haul-upgrade-kit
 
+## Character controllers and gameplay systems
+
+- **Action Character Controller for Godot 4 — Melee Combat & Parkour** — editable GDScript 3D controller: lock-on melee combos, parry, charged attacks, mantle, wall jump, swim, first/third person, player/enemy prefabs, animation libraries, bilingual setup guides. Free Frostgate Trials web demo and Lite download; Full is a Godot project (Godot 4.6.3 recommended, desktop Chrome for web demo). https://shapita.itch.io/action-character-controller
+
 ## Vehicles and moving bases
 
 - **Rolling Base Kit** — Godot 4 template for walkable moving vehicles: steam train (5 cars), drill cabin, submarine; interactive stations with fuel/pressure/power/faults. 35 procedural glTF models. Free Lite ZIP and browser demo; full kit US$19.99 (launch US$15.99 through Nov 15, 2026). Tested Godot 4.6.3 and 4.7.2; AI-assisted — https://shapita.itch.io/rolling-base-kit
