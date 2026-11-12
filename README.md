@@ -47,13 +47,20 @@ Low-poly 3D asset packs (Blender, GLB/FBX, Godot scenes) and playable Godot 4 te
 
 - **Rolling Base Kit** — Godot 4 template for walkable moving vehicles: steam train (5 cars), drill cabin, submarine; interactive stations with fuel/pressure/power/faults. 35 procedural glTF models. Free Lite ZIP and browser demo; full kit US$19.99 (launch US$15.99 through Nov 15, 2026). Tested Godot 4.6.3 and 4.7.2; AI-assisted — https://shapita.itch.io/rolling-base-kit
 
-## Themed rooms
+## Cozy and craft kits (2.0 updates)
 
+ - **Corner Cafe 2.0** — 57 models (32 from v1.3 unchanged + 25 new), modular bar and two walkable Godot cafes (6 × 4 m takeaway, 8 × 6 m tea room), animated door/hatch/display case, tray pickup signal, 23 inventory icons, editable Blender layouts. Art and assembly kit: no orders, money or customers. Free 6-model sample. US$2.99 — [https://shapita.itch.io/corner-cafe-3d](https://shapita.itch.io/corner-cafe-3d)
+ - **Artisan Pottery Studio 3.0** — walkable pottery workshop: 5 forms in 4 states (20 variant files), six stations, animated wheel and kiln, reusable display corner, Godot workshop and Blender scenes. US$2.99 — [https://shapita.itch.io/artisan-pottery-studio-3d](https://shapita.itch.io/artisan-pottery-studio-3d)
+ - **Harbor Fish Market 2.0** — walkable coastal market: 20 models, 20 Godot prefabs, 3 visual animation clips, carry-weigh-display demo, optional layout beside Reel & Dock. Free 3-model sample. US$1.99 — [https://shapita.itch.io/harbor-fish-market-3d](https://shapita.itch.io/harbor-fish-market-3d)
+ - **Reel & Dock 2.0** — walkable fishing pier and lake shore: 37 models + 4 assembly variants, two Godot scenes, six ready-made sets, five animation clips (water and boat motion are visual effects). Free sample and trailer. US$3.99 — [https://shapita.itch.io/reel-and-dock-3d](https://shapita.itch.io/reel-and-dock-3d)
+ - **Escape Room Props 2.0** — three configurable working Godot puzzles (keypad, moving-ring cryptex, symbol panel) in a playable room, with 69 model entries in GLB/FBX/OBJ. Free keypad sample. US$6.99 — [https://shapita.itch.io/escape-room-props-3d](https://shapita.itch.io/escape-room-props-3d)
+
+## Themed rooms
 - **Data Center 3D** — server room and infrastructure kit. US$3.99 — https://shapita.itch.io/data-center-3d
 - **Data Center Pro** — interactive racks and parts, Godot demo. US$12.99 — https://shapita.itch.io/data-center-pro-3d
 - **PC Repair Pro** — interactive PC parts and workshop. US$12.99 — https://shapita.itch.io/pc-repair-pro-3d
 - **Karaoke & KTV 3D** — stage, booths and bar. US$3.99 — https://shapita.itch.io/karaoke-ktv-3d
-- **Verdant Glasshouse** — 37 modular greenhouse and plant models — https://shapita.itch.io/verdant-glasshouse-3d
+ - **Verdant Glasshouse 2.0** — 55 distinct modular greenhouse and plant models (+2 variants) in GLB/FBX with editable Blender files; two editable Godot layouts (6 × 4 m glasshouse and 12 × 8 m nursery) with prefabs, colliders, animated doors, roof vents and louvers; EN/ES assembly guide. Free 6-model sample and trailer. US$3.49 — [https://shapita.itch.io/verdant-glasshouse-3d](https://shapita.itch.io/verdant-glasshouse-3d)
 - **Facility Power Pro** — blackout & backup kit for Godot 4: 39 designs + 4 variants, 27 prefabs; 3 scenarios (Server Power Room, Small Workshop, Abandoned Facility) with generator/fuel/load priorities/fuses. Free component ZIP and browser demo; full kit US$12.99. Tested Godot 4.6.3 on Windows; AI-assisted. (No server racks, audio or LODs.) — https://shapita.itch.io/facility-power-pro
 
 ## FAQ
