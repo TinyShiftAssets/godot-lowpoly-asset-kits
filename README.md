@@ -42,6 +42,9 @@ Low-poly 3D asset packs (Blender, GLB/FBX, Godot scenes) and playable Godot 4 te
 ## Character controllers and gameplay systems
 
 - **Action Character Controller for Godot 4 — Melee Combat & Parkour** — editable GDScript 3D controller: lock-on melee combos, parry, charged attacks, mantle, wall jump, swim, first/third person, player/enemy prefabs, animation libraries, bilingual setup guides. Free Frostgate Trials web demo and Lite download; Full is a Godot project (Godot 4.6.3 recommended, desktop Chrome for web demo). https://shapita.itch.io/action-character-controller
+## Characters and rigs
+- **La Dama Noir — Rigged Modular 3D Character** — Stylized 3D heroine for third-person projects: three complete rigged variants (signature fedora + corset "Noir", adventurer outfit with utility gear, and a base for building your own wardrobe) sharing one rig. FBX and GLB with embedded textures, 13 separate skinned clothing pieces, source PBR maps and color ID masks, 92-bone humanoid rig, 52 ARKit-named facial shapes per complete variant. Blender import verified; includes a guide for setting up the FBX in Unreal Engine 5. Character asset only: animation clips, the Action Character Controller and the demo environment are sold separately. AI-assisted (Blender scripting and promo material); disclosed on the itch.io page. US$12.99 — https://shapita.itch.io/la-dama-noir
+
 
 ## Vehicles and moving bases
 
