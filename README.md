@@ -21,6 +21,7 @@ Low-poly 3D asset packs (Blender, GLB/FBX, Godot scenes) and playable Godot 4 te
 - **Factory Line** — 98 low-poly industrial models + 6 animation clips, Godot scenes/prefabs. Art pack, not a working simulation. US$1.99 — https://shapita.itch.io/factory-line-3d
 - **Industrial World bundle** — 7 complete 3D packs — https://itch.io/s/203793/industrial-world-7-complete-3d-packs
 - **Sortworks Pro** — working 3D sorting line for Godot, source and demos. US$9.99 — https://shapita.itch.io/sortworks-pro-godot
+- **Walk-In Freezer Kit 3D** — modular cold room for Godot 4: 22 modular models, 2 assembled GLBs, working door, fan and power-failure scene, mechanical release, Blender source, Godot 4.7.2 tested. US$5.99 — https://shapita.itch.io/walk-in-freezer-kit-3d
 
 ## Shop and supermarket simulator
 
@@ -62,6 +63,7 @@ Low-poly 3D asset packs (Blender, GLB/FBX, Godot scenes) and playable Godot 4 te
 - **Data Center 3D** — server room and infrastructure kit. US$3.99 — https://shapita.itch.io/data-center-3d
 - **Data Center Pro** — interactive racks and parts, Godot demo. US$12.99 — https://shapita.itch.io/data-center-pro-3d
 - **PC Repair Pro** — interactive PC parts and workshop. US$12.99 — https://shapita.itch.io/pc-repair-pro-3d
+- **Small Engine Repair 3D** — single-cylinder engine with detachable parts (spark plug, head bolts, cylinder head), 19 GLBs, workbench, 3 colourways, Blender source; Godot 4 example with Take apart / Put back. US$4.99 — https://shapita.itch.io/small-engine-repair-3d
 - **Karaoke & KTV 3D** — stage, booths and bar. US$3.99 — https://shapita.itch.io/karaoke-ktv-3d
  - **Verdant Glasshouse 2.0** — 55 distinct modular greenhouse and plant models (+2 variants) in GLB/FBX with editable Blender files; two editable Godot layouts (6 × 4 m glasshouse and 12 × 8 m nursery) with prefabs, colliders, animated doors, roof vents and louvers; EN/ES assembly guide. Free 6-model sample and trailer. US$3.49 — [https://shapita.itch.io/verdant-glasshouse-3d](https://shapita.itch.io/verdant-glasshouse-3d)
 - **Facility Power Pro** — blackout & backup kit for Godot 4: 39 designs + 4 variants, 27 prefabs; 3 scenarios (Server Power Room, Small Workshop, Abandoned Facility) with generator/fuel/load priorities/fuses. Free component ZIP and browser demo; full kit US$12.99. Tested Godot 4.6.3 on Windows; AI-assisted. (No server racks, audio or LODs.) — https://shapita.itch.io/facility-power-pro
