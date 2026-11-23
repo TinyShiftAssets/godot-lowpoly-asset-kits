@@ -33,6 +33,7 @@ Low-poly 3D asset packs (Blender, GLB/FBX, Godot scenes) and playable Godot 4 te
 - **Card Shop** — expansion on the same grid and colour atlas as Store Simulator Kit — https://shapita.itch.io/card-shop-3d
 - **Hardware Store** — 88 model entries, 6 stocked prefabs, shop and lumber-yard layouts; two models free to test — https://shapita.itch.io/hardware-store-3d
 - **Pharmacy & Clinic** — retail/clinic kit — https://shapita.itch.io/pharmacy-clinic-kit-3d
+- **Checkout Counter 3D** — Godot 4 add-on: reusable 3D barcode scanner (direction/distance/visibility checks), cash drawer with configurable denominations and change, simulated card terminal, voids, itemized receipts; bring your own GLB products. Free browser demo. Tested on Windows with Godot 4.6.3 and 4.7.2; payments are simulated. English and Spanish; code and docs AI-assisted. US$7.99 — https://shapita.itch.io/checkout-counter-3d?utm_source=github&utm_medium=referral&utm_campaign=catalog&utm_content=checkout_counter
 
 ![Shop Sim Core checkout](images/Shop Sim Core caja gameplay.gif)
 
